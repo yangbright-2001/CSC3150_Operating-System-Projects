@@ -1,6 +1,6 @@
 # CSC3150: Operating System
 
-Course projects for **CSC3150: Operating System (2022 Fall)** at The Chinese University of Hong Kong.
+Course projects for **CSC3150: Operating System (2022 Fall)** at The Chinese University of Hong Kong, Shenzhen.
 
 This repository contains the source code and reports for four assignments. Each assignment is in its own directory at the repository root.
 
